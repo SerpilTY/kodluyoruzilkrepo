@@ -66,8 +66,10 @@ Dizi Sıralandıktan sonra avarage case sınıfına girer çünkü 18 sayısı o
 [Patika.dev](https://www.patika.dev/tr)
 
 <hr>
+
 # Proje 2
 # Merge Sort
+
 [16,21,11,8,12,22] 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
