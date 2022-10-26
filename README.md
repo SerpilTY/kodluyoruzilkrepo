@@ -34,8 +34,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 <hr>
 
-# Proje 1
-# Inserion Sort
+## Proje 1
+## Inserion Sort
 
 ## 1.[22,27,16,2,18,6] dizisini insertion sorta göre aşamalarını yazınız.
 1. [2|,27,16,22,18,6]
@@ -67,8 +67,8 @@ Dizi Sıralandıktan sonra avarage case sınıfına girer çünkü 18 sayısı o
 
 <hr>
 
-# Proje 2
-# Merge Sort
+## Proje 2
+## Merge Sort
 
 [16,21,11,8,12,22] 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
@@ -85,3 +85,23 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 
 2. Big O Gösterimi: O(nlogn)
+
+<hr>
+
+## Proje 3
+## Binary Search Tree
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+```
+       7
+      / \
+     5   8
+    / \    \
+   1   6    9
+  / \
+ 0   3
+     / \
+    2    4     
+```    
+    
