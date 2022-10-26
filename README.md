@@ -64,3 +64,21 @@ Dizi Sıralandıktan sonra avarage case sınıfına girer çünkü 18 sayısı o
 4. [2,3,4,5|,7,9,8,15,6]
 
 [Patika.dev](https://www.patika.dev/tr)
+
+<hr>
+# Proje 2
+# Merge Sort
+[16,21,11,8,12,22] 
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+## 1. Aşamalar: 
+
+	    [16,21,11,8,12,22]
+      [16,21,11]	   [8,12,22]	     
+  [16,21]    [11]       [8,12]    [22]
+  [11,16,21]         [8,12,22]	       
+      [8,11,12,16,21,22]
+		
+
+## 2. Big O Gösterimi: 
+O(nlogn)
