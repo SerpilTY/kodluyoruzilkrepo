@@ -74,7 +74,7 @@ Dizi Sıralandıktan sonra avarage case sınıfına girer çünkü 18 sayısı o
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 1. Aşamalar: 
-2. 
+
 ```
 	    [16,21,11,8,12,22]
       [16,21,11]	   [8,12,22]	     
