@@ -73,14 +73,14 @@ Dizi Sıralandıktan sonra avarage case sınıfına girer çünkü 18 sayısı o
 [16,21,11,8,12,22] 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-## 1. Aşamalar: 
+1. Aşamalar: 
 
 	    [16,21,11,8,12,22]
       [16,21,11]	   [8,12,22]	     
   [16,21]    [11]       [8,12]    [22]
   [11,16,21]         [8,12,22]	       
-      [8,11,12,16,21,22]
+            [8,11,12,16,21,22]
 		
 
-## 2. Big O Gösterimi: 
+2. Big O Gösterimi: 
 O(nlogn)
